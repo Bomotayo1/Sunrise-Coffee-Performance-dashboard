@@ -253,9 +253,9 @@ The finished report file goes in [`powerbi/`](powerbi/).
       Senior Commercial Analyst · #DataDNA challenge entry<br><br>
       Turning raw trading data into decisions: business question, clean model, verified numbers, clear recommendation.
       <br><br>
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="assets/linkedin.svg" alt="LinkedIn" height="40"></a>
+      <a href="https://www.linkedin.com/in/omotayo-babatunde"><img src="assets/linkedin.svg" alt="LinkedIn" height="40"></a>
       &nbsp;
-      <a href="https://x.com/YOUR-X-HANDLE"><img src="assets/x.svg" alt="Follow on X" height="40"></a>
+      <a href="https://x.com/tu_nde"><img src="assets/x.svg" alt="Follow on X" height="40"></a>
     </td>
   </tr>
 </table>

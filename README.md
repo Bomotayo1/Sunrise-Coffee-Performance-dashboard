@@ -246,7 +246,7 @@ The finished report file goes in [`powerbi/`](powerbi/).
 <table>
   <tr>
     <td width="160" align="center">
-      <img src="images/profile.jpg" alt="Babatunde Omotayo" width="140">
+    <img width="2881" height="3600" alt="DSC07319" src="https://github.com/user-attachments/assets/de1d31ff-49e5-4069-94e9-5fd1b7d1d20c" /> 
     </td>
     <td>
       <h3>Babatunde Omotayo</h3>

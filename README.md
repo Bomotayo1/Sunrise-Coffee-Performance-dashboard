@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="assets/linkedin.svg" alt="LinkedIn" height="48"></a>
+  <a href="https://www.linkedin.com/in/omotayo-babatunde"><img src="assets/linkedin.svg" alt="LinkedIn" height="48"></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/YOUR-X-HANDLE"><img src="assets/x.svg" alt="Follow on X" height="48"></a>
+  <a href="https://x.com/tu_nde1"><img src="assets/x.svg" alt="Follow on X" height="48"></a>
 </p>
 
 <p align="center">

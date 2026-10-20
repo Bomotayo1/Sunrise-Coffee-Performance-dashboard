@@ -1,0 +1,22 @@
+{
+  "name": "Sunrise Coffee",
+  "dataColors": ["#6F4E37", "#C68B59", "#7A8B69", "#D9B99B", "#3B2418", "#B5533C"],
+  "background": "#F5EBDD",
+  "foreground": "#34231E",
+  "tableAccent": "#6F4E37",
+  "good": "#7A8B69",
+  "bad": "#B5533C",
+  "neutral": "#C68B59",
+  "textClasses": {
+    "title": { "fontFace": "Georgia", "fontSize": 14, "color": "#34231E" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#6B5547" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FBF5EA" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#CDBBA0" } }, "radius": 14 }]
+      }
+    }
+  }
+}
